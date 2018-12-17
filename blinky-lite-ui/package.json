@@ -20,7 +20,7 @@
   },
   "homepage": "",
   "dependencies": {
-    "node-red": "^0.19.4",
-    "node-red-dashboard": "^2.9.8"
+    "node-red": "^0.19.5",
+    "node-red-dashboard": "^2.12.2"
   }
 }
